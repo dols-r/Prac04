@@ -1,1 +1,1 @@
-﻿Console.WriteLine("");
+﻿Console.WriteLine($"Логических процессоров (ядер): {Environment.ProcessorCount}");
